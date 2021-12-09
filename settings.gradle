@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "gcore_sdk_test"
 include ':app'
+include ':GCoreVideoCallsSDK'
+include ':mediasoup-android-client'
